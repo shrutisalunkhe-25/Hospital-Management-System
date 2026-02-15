@@ -1,4 +1,4 @@
-# Hospital-Management-System
+# Hostel-Management-System
 First Database project
 
 ## Project Discription:
